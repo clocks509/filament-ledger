@@ -71,3 +71,62 @@ npm install
 
 # Start the development server
 npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
+
+## 🚀 Deploy to Vercel
+
+1. Fork this repository.
+2. Create a new project on [Vercel](https://vercel.com) and import your fork.
+3. Vercel will automatically detect Vite and deploy.
+
+---
+
+## 🤝 How to Contribute
+
+Thank you for your interest in The Filament Ledger! Every suggestion helps.
+
+### 🐛 Found a bug or have an idea?
+
+1. Open an **Issue** – go to the **"Issues"** tab and describe what you'd like to see changed or fixed.
+2. I'll reply and we can discuss it.
+
+### 💻 Want to submit code?
+
+1. **Fork** this repository.
+2. Make your changes in your fork.
+3. Open a **Pull Request** – describe what you changed and why.
+4. I'll review it, suggest changes if needed, and merge it if it fits the project.
+
+### 🙋‍♂️ Don't know how to code?
+
+That's fine! You can still help:
+- Open an **Issue** with a feature request.
+- Share the app with other makers.
+- Tell me what you'd like to see improved.
+
+---
+
+## 💬 Feedback & Ideas
+
+I'd love to hear what you think! If you have an idea for a new feature, a suggestion, or just want to say hi:
+
+- Open an **Issue** – it's the easiest way to start a conversation.
+- You don't need to be a developer – your ideas are just as valuable.
+
+---
+
+## 🙏 Acknowledgements
+
+This project was built with assistance from AI tools (Claude and DeepSeek) under the direct supervision and direction of [clocks509](https://github.com/clocks509). All design decisions, feature requests, bug fixes, and project structure were determined by the author.
+
+---
+
+## 🙋‍♂️ About
+
+Built by [clocks509](https://github.com/clocks509) – a 3D printing enthusiast who wanted a better way to track filament.
+
+**If you find this useful, give it a ⭐ on GitHub!**
