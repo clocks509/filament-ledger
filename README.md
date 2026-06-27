@@ -2,7 +2,7 @@
 
 A React‑based filament inventory tracker for 3D printing. Manage spools, track remaining filament, log print usage, get refill alerts, and create a shopping list.
 
-🔗 **Live demo:** [filament-ledger-weld.vercel.app](https://filament-ledger-weld.vercel.app)
+🔗 **Live demo:** [filament-ledger-vk1k.vercel.app](https://filament-ledger-vk1k.vercel.app)
 
 ---
 
